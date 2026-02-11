@@ -28,12 +28,14 @@ Success	"rizwana successfully deployed a ci cd pipeline!"
 Failure	"oops! i messed pipeline"
 
 
-https://1drv.ms/i/c/5e18a578cb004283/IQA6prmpamqgRoaFRJtLsRAVAV425ti-_R4XZVWD0WnBaeU?e=9vWjFz
+<img width="1366" height="768" alt="2026-02-11" src="https://github.com/user-attachments/assets/49c65bd4-90b5-4025-bf9d-3a420dc3f82f" />
+
 
 
 
 
 Deployment Status
 ✅ Successfully deployed on Jenkins!
+
 
 Created by: Rizwana
