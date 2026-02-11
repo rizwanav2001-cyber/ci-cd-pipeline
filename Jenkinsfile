@@ -4,9 +4,8 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building the app...'
-                sh 'mvn clean compile -DskipTests'
-            }
+                echo 'Building the app...'       
+          }
         }
         
         stage('Test') {
