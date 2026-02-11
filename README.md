@@ -28,8 +28,9 @@ Success	"rizwana successfully deployed a ci cd pipeline!"
 Failure	"oops! i messed pipeline"
 
 
-<img width="1366" height="768" alt="2026-02-11" src="https://github.com/user-attachments/assets/49c65bd4-90b5-4025-bf9d-3a420dc3f82f" />
 
+
+<img width="1366" height="654" alt="2026-02-11" src="https://github.com/user-attachments/assets/efafdd41-1ba0-43ac-83aa-6567333f0fb5" />
 
 
 
